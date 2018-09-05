@@ -13,4 +13,3 @@ jhipster:
         authentication:
             jwt:
                 secret: thisissecretkeyforfilmsolutionspko8
-                base64-secret: dGhpc2lzc2VjcmV0a2V5Zm9yZmlsbXNvbHV0aW9uc3BrbzgK
